@@ -1,0 +1,126 @@
+body {
+    text-align:center;
+    margin:0;
+    padding:0;
+}
+
+
+.top-container {
+    background-color:#beebe9;
+    margin: 0 auto;
+    position:relative;
+    padding-top: 20px;
+}
+
+h1 {
+    Font-family: 'Great Vibes' ;
+    font-size: 2.5rem;
+    color:#66BFBF;
+}
+p {
+    font-family: 'Zilla Slab';
+    line-height: 2;
+   
+}
+
+h3 {
+    color: #11999E;
+}
+h2 {
+    font-family: 'Dancing Script';
+    font-size: 1.5rem;
+    color: #66BFBF;
+}
+
+.subtitule {
+    font-weight: normal;
+}
+a {
+    color: #11999E;
+}
+.mountain-bottom {
+   position:relative;
+
+}
+
+.top-cloud {
+    position:absolute;
+    right:200px;
+    top:100px;
+    
+}
+.bottom-cloud {
+    position:absolute;
+    left: 200px;
+    top:100px;
+    
+}
+
+.carlos-img {
+    width:25%;
+    border-radius: 15%;
+    border: 2px;
+}
+.nerd-img {
+    width:25%;
+    float:right;
+    margin:20px;
+    padding-top:30px;
+}
+.sun-img {
+    width:25%;
+    float:left;
+    margin: 20px;
+    padding-top:30px;
+}
+.skill-row {
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.profile {
+    width:50%;
+    margin:100px auto 100px auto;
+}
+
+.first-description {
+    width:50%;
+    margin: 0 auto;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width:20px;
+    width:20%;
+    border-color: #EAF6F6;
+    padding-bottom: 50px;
+}
+
+.contact-email {
+    background-color: #beebe9;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+   color: white;
+}
+.bottom-container {
+    background-color: #beebe9;
+    padding-top: 20px;
+    margin-top:50px;
+    padding-bottom: 20px;
+}
+.contact-email:hover {
+    background-color: #beebd1;
+}
+
+.footer-link {
+    padding:10px;
+}
